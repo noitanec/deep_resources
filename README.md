@@ -2,6 +2,13 @@
 Links to study material and code related to machine / deep learning.
 
 <details>
+<summary> machine-learning </summary>
+  
+  + [SMOTE: Synthetic Minority Oversampling Technique](https://towardsdatascience.com/smote-fdce2f605729)
+  + [f1-score](https://towardsdatascience.com/the-f1-score-bec2bbc38aa6)
+</details>
+
+<details>
 <summary> transformer </summary>
   
   + [TRANSFORMERS FROM SCRATCH](http://peterbloem.nl/blog/transformers)
